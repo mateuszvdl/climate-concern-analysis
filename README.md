@@ -2,7 +2,7 @@
 
 This repository contains the data and code for a statistical analysis project on the factors influencing public concern about global warming. The analysis, conducted in R, explores the differences in concern levels between genders and the correlation between age and concern.
 
-This project was completed by Liwia Gajowniczek, Mateusz Van der Linden, and Ignacy Zegar for a statistics course at SWPS University in Warsaw.
+This project was completed by Liwia Gajowniczek, Mateusz van der Linden, and Ignacy Zegar for a statistics course at SWPS University in Warsaw.
 
 ## 📂 Files in this Repository
 
