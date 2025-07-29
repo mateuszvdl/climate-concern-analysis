@@ -1,4 +1,4 @@
-# Analysis of Public Concern About Global Warming
+# Analysis of public concern about global warming
 
 This repository contains the data and code for a statistical analysis project on the factors influencing public concern about global warming. The analysis, conducted in R, explores the differences in concern levels between genders and the correlation between age and concern.
 
